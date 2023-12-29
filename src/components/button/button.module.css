@@ -1,0 +1,10 @@
+
+.container{
+    padding: 20px;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    color: aliceblue;
+    cursor: pointer;
+    width: max-content;
+  }
